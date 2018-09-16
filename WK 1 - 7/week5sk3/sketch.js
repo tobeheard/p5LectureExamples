@@ -1,4 +1,5 @@
-//sine, then trigger ADSR
+//play sineTone setting it's frequency form an array of MIDI note values.
+ // then trigger ADSR
 var pentSequence = [54,56,58,61,63];
 //set vars for ADSR params
 var attack = 0.01;
