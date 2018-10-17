@@ -1,0 +1,22 @@
+{
+  "name": "minor3.1",
+  "version": "1.0.0",
+  "description": "testing websockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "hello",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "385Major Test"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "sharyn brand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

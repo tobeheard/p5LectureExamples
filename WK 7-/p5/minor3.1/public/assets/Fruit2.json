@@ -1,0 +1,20 @@
+{
+"fruit":{
+  "Pear":{
+    "size":"medium",
+    "colour":"green",
+    "weight":300
+  },
+  "Apple":{
+    "size":"large",
+    "colour":"red",
+    "weight":400
+
+  },
+  "Grape":{
+  "size":"small",
+  "colour":"purple",
+  "weight":20
+}
+}
+}
